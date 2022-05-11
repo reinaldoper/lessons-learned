@@ -8,3 +8,7 @@ body {
 #rodape{
     text-align: center;
 }
+article{
+    text-align: center;
+    border-left: 150px;
+}
