@@ -9,6 +9,18 @@ body {
     text-align: center;
 }
 article{
+    display: inline-block;
+}
+aside{
+    float: right;
+    width: 400px;
+}
+section{
+    
     text-align: center;
     border-left: 150px;
+    display: inline-flex;
+}
+main{
+    display: inline;
 }
