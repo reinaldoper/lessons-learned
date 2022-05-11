@@ -16,11 +16,25 @@ aside{
     width: 400px;
 }
 section{
-    
-    text-align: center;
-    border-left: 150px;
+    text-align:center;
     display: inline-flex;
 }
 main{
     display: inline;
+}
+#secao{
+    display: inline-flex;
+}
+#list{
+    float: right;
+}
+#minha_foto{
+    width: 500px;
+    border-radius: 4%;
+}
+#licoes_aprendidas, #list{
+    margin-top: 150px;
+}
+em{
+    padding: 70px 70px;
 }
