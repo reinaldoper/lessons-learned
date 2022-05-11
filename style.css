@@ -8,7 +8,6 @@ body {
 #rodape{
     margin-top: 40px;
     text-align: center;
-    color: brown;
 }
 article{
     display: inline-block;
@@ -16,8 +15,6 @@ article{
 aside{
     float: right;
     width: 400px;
-    margin-bottom: 80px;
-    margin-left: 50px;
 }
 section{
     text-align:center;
@@ -44,9 +41,6 @@ h2{
     margin-left: 550px;
     color: brown;
 }
-h1, h3{
+h1{
     color: brown;
-}
-#artigo{
-    margin-top: 40px;
 }
