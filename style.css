@@ -39,7 +39,9 @@ main{
 #artigo{
     padding: 70px 70px;
 }
-h2{
-    margin-left: 550px;
+h3{
+    color: brown;
+}
+h1{
     color: brown;
 }
