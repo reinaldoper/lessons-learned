@@ -25,7 +25,6 @@ article{
 }
 #minha_foto{
     border-radius: 4%;
-    
 }
 
 h2{
@@ -36,7 +35,6 @@ h1, h3{
     color: brown;
 }
 .lado-esquerdo{
-    border: 1px solid green;
     display: inline-block;
 }
 .depoimento{
@@ -52,9 +50,7 @@ h1, h3{
     background-color: rgb(180, 225, 203);
     font-size: larger;
 }
-.imagem{
-    border: 2px solid rgb(46, 165, 42);
-}
+
 p{
     line-height: 20px;
 }
