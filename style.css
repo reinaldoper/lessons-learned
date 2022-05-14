@@ -7,6 +7,9 @@ body {
     top: 0;
     height: 100px;
     font-size: large;
+    background-color: green;
+    text-align: center;
+    width:100%;
 }
 #rodape{
     margin-top: 40px;
@@ -25,6 +28,7 @@ article{
 }
 #minha_foto{
     border-radius: 4%;
+    margin-top: 85px;
 }
 
 h2{
@@ -61,9 +65,9 @@ p{
     text-align: justify;
     float: right;
 }
-nav{
+nav a{
     font-size: 20px;
-    
+    margin-left: 10px;
 }
 td{
     width: 101px;
@@ -75,4 +79,7 @@ td{
     background-color:antiquewhite;
     padding: 10px 10px 10px 10px;
     
+}
+.imagem{
+    margin-top: 10px;
 }
